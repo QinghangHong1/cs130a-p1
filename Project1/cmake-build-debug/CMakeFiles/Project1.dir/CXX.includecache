@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/Dictionary.cpp
+Dictionary.h
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/Dictionary.h
+Dictionary.h
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/Dictionary.h
+string
+-
+cmath
+-
+iostream
+-
+cstdlib
+-
+vector
+-
+
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/Dictionary.h
+string
+-
+iostream
+-
+cstdlib
+-
+vector
+-
+cmath
+-
+
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/dictionary_test.cpp
+dictionary_test.h
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/dictionary_test.h
+
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/dictionary_test.h
+Dictionary.h
+/Users/yanghaochen/Desktop/CS130A/Project1/cmake-build-debug/Dictionary.h
+iostream
+-
+
